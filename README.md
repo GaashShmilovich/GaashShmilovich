@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gaash</h1>
 <h3 align="center">A Full-stack / Frontend developer from Israel</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"
 ">
 
 
